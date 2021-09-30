@@ -6,7 +6,7 @@
 
 # Google reCAPTCHA V2 Checkbox Client-Side Validation with Vanilla JavaScript
 
-> **You can also check this [repo](https://github.com/Tes3awy/recaptcha-vanilla-php) includes a complete sample code of how server-side &amp; client-side Google reCATPCHA V2 validations work.**
+> **You can also check this [repo](https://github.com/Tes3awy/recaptcha-vanilla-php). It includes a complete sample code of how server-side &amp; client-side Google reCATPCHA V2 validations work.**
 
 ## Table of Contents
 
