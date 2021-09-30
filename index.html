@@ -52,14 +52,14 @@
                             <!-- Add the sitekey in data-sitekey attribute here -->
                             <div class="g-recaptcha" data-theme="light" data-size="normal"
                                 data-callback="captchaVerified" data-expired-callback="captchaExpired"
-                                data-sitekey="Your_Site_Key_Here">
+                                data-sitekey="6Lcaxp0cAAAAABMM86u1fSTluQtYtnWhsMt1S9rp">
                             </div>
                         </div>
                 </div>
                 <!-- Submit Btn -->
                 <div class="text-center mt-3">
-                    <button class="btn btn-lg btn-outline-info shadow-sm" id="submit" type="submit" name="submit"
-                        disabled aria-disabled="true"><i class="fa fa-paper-plane"></i> &nbsp;
+                    <button class="btn btn-lg btn-outline-info shadow-sm disabled" id="submit" type="submit"
+                        name="submit" disabled aria-disabled="true"><i class="fa fa-paper-plane"></i> &nbsp;
                         Send</button>
                 </div>
                 </form>
@@ -75,7 +75,7 @@
                 var submitBtn = document.getElementById('submit');
                 submitBtn.removeAttribute('disabled');
                 submitBtn.removeAttribute('aria-disabled');
-                submitBtn.classList.remove('btn-outline-info');
+                submitBtn.classList.remove('btn-outline-info', 'disabled');
                 submitBtn.classList.add('btn-info');
             }
             // Expiration callback function
