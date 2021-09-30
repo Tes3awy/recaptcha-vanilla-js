@@ -1,5 +1,4 @@
 [![YouTube Views](https://img.shields.io/youtube/views/okaZ6OIqlzs?label=Views&style=social)](https://youtu.be/okaZ6OIqlzs)
-![Top Lang](https://img.shields.io/github/languages/top/Tes3awy/recaptcha-vanilla-js?color=777BB4&logo=js&style=flat-square)
 ![Forks](https://img.shields.io/github/forks/Tes3awy/recaptcha-vanilla-js?label=Total%20Forks&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/Tes3awy/recaptcha-vanilla-js?label=Total%20Stars&style=flat-square)
 ![Issues](https://img.shields.io/github/issues/Tes3awy/recaptcha-vanilla-js?style=flat-square)
