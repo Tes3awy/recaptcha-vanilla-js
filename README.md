@@ -26,6 +26,8 @@ $ cd recaptcha-vanilla-js
 $ code . # Only if you are using VSCode
 ```
 
+To begin with, you **MUST** provide a sitekey in `data-sitekey` data attribute. This key is provided when you [create a reCAPTCHA V2 Checkbox](https://www.google.com/recaptcha/admin/create).
+
 ### Data Attributes
 
 ```js
