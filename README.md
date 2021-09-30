@@ -2,7 +2,7 @@
 ![Forks](https://img.shields.io/github/forks/Tes3awy/recaptcha-vanilla-js?label=Total%20Forks&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/Tes3awy/recaptcha-vanilla-js?label=Total%20Stars&style=flat-square)
 ![Issues](https://img.shields.io/github/issues/Tes3awy/recaptcha-vanilla-js?style=flat-square)
-[![License](https://img.shields.io/github/license/Tes3awy/recaptcha-vanilla-js?color=purple&style=flat-square)](https://github.com/Tes3awy/recaptcha-vanilla-js/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/Tes3awy/recaptcha-vanilla-js?color=purple&style=flat-square)](https://github.com/Tes3awy/recaptcha-vanilla-js/blob/main/LICENSE)
 
 # Google reCAPTCHA V2 Checkbox Client-Side Validation with Vanilla JavaScript
 
