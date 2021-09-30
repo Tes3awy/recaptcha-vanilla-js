@@ -1,8 +1,8 @@
 [![YouTube Views](https://img.shields.io/youtube/views/okaZ6OIqlzs?label=Views&style=social)](https://youtu.be/okaZ6OIqlzs)
-![Top Lang](https://img.shields.io/github/languages/top/Tes3awy/recaptcha-vanilla-php?color=777BB4&logo=php&style=flat-square)
-![Forks](https://img.shields.io/github/forks/Tes3awy/recaptcha-vanilla-php?label=Total%20Forks&style=flat-square)
-![Stars](https://img.shields.io/github/stars/Tes3awy/recaptcha-vanilla-php?label=Total%20Stars&style=flat-square)
-![Issues](https://img.shields.io/github/issues/Tes3awy/recaptcha-vanilla-php?style=flat-square)
+![Top Lang](https://img.shields.io/github/languages/top/Tes3awy/recaptcha-vanilla-js?color=777BB4&logo=js&style=flat-square)
+![Forks](https://img.shields.io/github/forks/Tes3awy/recaptcha-vanilla-js?label=Total%20Forks&style=flat-square)
+![Stars](https://img.shields.io/github/stars/Tes3awy/recaptcha-vanilla-js?label=Total%20Stars&style=flat-square)
+![Issues](https://img.shields.io/github/issues/Tes3awy/recaptcha-vanilla-js?style=flat-square)
 [![License](https://img.shields.io/github/license/Tes3awy/recaptcha-vanilla-js?color=purple&style=flat-square)](https://github.com/Tes3awy/recaptcha-vanilla-js/blob/master/LICENSE)
 
 # Google reCAPTCHA V2 Checkbox Client-Side Validation with Vanilla JavaScript
@@ -29,7 +29,7 @@ $ code . # Only if you are using VSCode
 
 ### Data Attributes
 
-```php
+```js
 data-sitekey="<SITE_KEY>" (Required)
 data-theme="<THEME>" (Optional. Allowed values: "dark" or "light". Default: light)
 data-size="<SIZE>" (Optional. Allowed values: "normal" or "compact". Default: normal)
